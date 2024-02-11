@@ -9,7 +9,7 @@
         <version>2.7.3</version>
     </parent>
 
-    <groupId>com.fitness</groupId>
+    <groupId>com.test</groupId>
     <artifactId>spring-cli-app</artifactId>
     <version>1.0.4-SNAPSHOTk8stest1</version>
 
